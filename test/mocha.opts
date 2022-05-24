@@ -1,2 +1,5 @@
 --require ts-node/register
+--reporter spec
+--slow 200
+--bail
 --timeout 10000
